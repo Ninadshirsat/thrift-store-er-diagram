@@ -27,7 +27,7 @@ This repository contains the ER diagram for a small Instagram-based business sel
 
 ## 📷 ER Diagram
 
-![ER Diagram](er-diagram-thrift-store.png)
+![ER Diagram](insta-thrift-store-er-diagram.png)
 
 ## 🚀 Tools Used
 
